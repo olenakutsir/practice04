@@ -1,5 +1,5 @@
 * {color: #FFFFFF}
-
+h1 {color: #DC143C}
 #header{
   height: 100px;
   background-color: #A52A2A;
@@ -16,7 +16,7 @@
   width: 15%;
   height: 150px;
   background-color: #CD5C5C;
-  overflow: hidden;
+  overflow: auto;
 }
 #article{
   position: relative;
@@ -36,4 +36,3 @@
 	background-color:   #800000;
     padding-top: 4px;
 }
-.h1 {color: #DC143C}
