@@ -1,0 +1,38 @@
+* {color: #FFFFFF}
+.h1 {color: #FFC0CB}
+#header{
+  height: 100px;
+  background-color: #A52A2A;
+  padding-top: 20px;
+  font-family: broadway;
+  text-align: center;
+}
+#main{
+	height: 150px;
+}
+#aside{
+  position: relative;
+  float: left;
+  width: 15%;
+  height: 150px;
+  background-color: #CD5C5C;
+  overflow: hidden;
+}
+#article{
+  position: relative;
+  float: left;
+  width: 70%;
+  height: 150px;
+  background-color:  #FA8072;
+  overflow: hidden;
+}
+#nav{
+	background-color:  #CD5C5C;
+	height: 150px;
+}
+#footer{
+	text-align: center;
+	height: 50px;
+	background-color:   #800000;
+    padding-top: 4px;
+}
