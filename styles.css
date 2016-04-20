@@ -1,5 +1,9 @@
-* {color: #FFFFFF}
-h1, footer {color: #87CEEB}
+* {
+  margin: 0;
+  padding: 0;
+  color: #FFFFFF;
+}
+h1, footer {color: #87CEEB;}
 #header{
   height: 100px;
   background-color: #A52A2A;
