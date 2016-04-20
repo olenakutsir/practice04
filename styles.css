@@ -1,5 +1,5 @@
 * {color: #FFFFFF}
-.h1 {color: #FFC0CB}
+#header h1 {color: #DC143C}
 #header{
   height: 100px;
   background-color: #A52A2A;
