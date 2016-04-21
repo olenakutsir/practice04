@@ -43,6 +43,7 @@ footer, h1 {color: #87CEEB;}
 }
 img {
   position: absolute;
+  height: 10px;
   left: 80%;
   top: 120px;
   z-index: 0
