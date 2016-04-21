@@ -24,7 +24,7 @@ h1 {color: #87CEEB;}
   overflow: auto;
   text-decoration: underline;
 }
-aside p:only-child {text-decoration: underline;}
+aside p:last-child {text-decoration: underline;}
 #article{
   position: relative;
   float: left;
