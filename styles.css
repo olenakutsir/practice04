@@ -11,7 +11,7 @@ h1 {color: #87CEEB;}
   font-family: broadway;
   text-align: center;
   letter-spacing: 5px;
-  text-decoration: blink;
+  text-decoration: line-through;
 }
 #main{
 	height: 300px;
