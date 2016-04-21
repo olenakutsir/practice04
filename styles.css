@@ -22,7 +22,9 @@ h1 {color: #87CEEB;}
   height: 300px;
   background-color: #CD5C5C;
   overflow: auto;
+  text-decoration: underline;
 }
+aside p {text-decoration: underline;}
 #article{
   position: relative;
   float: left;
