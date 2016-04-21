@@ -10,6 +10,7 @@ footer, h1 {color: #87CEEB;}
   padding-top: 20px;
   font-family: broadway;
   text-align: center;
+  letter-spacing: 2px;
 }
 #main{
 	height: 150px;
@@ -39,4 +40,10 @@ footer, h1 {color: #87CEEB;}
 	height: 50px;
 	background-color:   #800000;
     padding-top: 4px;
+}
+img {
+  position: absolute;
+  left: 80%;
+  top: 120px;
+  z-index: 0
 }
